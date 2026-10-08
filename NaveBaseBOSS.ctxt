@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NaveBaseBOSS
+comment0.text=\r\n\ Define\ caracter\u00EDsticas\ y\ comportamientos\ comunes\ a\ todas\ las\ Naves\ de\ la\r\n\ Batalla\ Espacial.\r\n
+comment1.params=
+comment1.target=NaveBaseBOSS()
+comment1.text=\r\n\ Inicializa\ una\ Nave\ apuntando\ hacia\ el\ Direccion.NORTE\r\n
+comment2.params=direccion
+comment2.target=NaveBaseBOSS(Direccion)
+comment2.text=\r\n\ pre\:\ Se\ le\ pasa\ como\ parametro\ la\ direccion\ donde\ apuntara\ la\ naveBOSS\r\n\ post\:\ Inicializa\ la\ naveBOSS\ apuntando\ hacia\ la\ direccion\r\n
+comment3.params=direccion
+comment3.target=void\ setDireccion(Direccion)
+comment3.text=\r\n\ pre\:\ Se\ le\ pasa\ por\ parametro\ la\ direccion\r\n\ post\:\ rota\ la\ nave\ en\ la\ direccion\ dentro\ del\ mismo\ cuadrado\r\n
+comment4.params=
+comment4.target=void\ actualizarImagen()
+comment4.text=\r\n\ post\:\ Actualiza\ la\ imagen\ de\ la\ Nave.\ Agrega\ la\ barra\ indicadora\ debajo.\r\n
+comment5.params=
+comment5.target=greenfoot.Color\ getAura()
+comment6.params=
+comment6.target=void\ actualizarImagenAura()
+comment7.params=
+comment7.target=void\ configurar()
+numComments=8

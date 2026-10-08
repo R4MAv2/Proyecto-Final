@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=NaveBOSS
+comment0.text=\r\n\ Define\ el\ comportamiento\ de\ las\ Naves\ de\ Ataque\ Enemigas\r\n
+comment1.params=
+comment1.target=NaveBOSS()
+comment1.text=\r\n\ post\:\ Inicializa\ la\ naveBOSS\ mirando\ hacia\ el\ SUR\r\n
+comment2.params=direccion\ salud
+comment2.target=NaveBOSS(Direccion,\ int)
+comment2.text=\r\n\ pre\:\ se\ le\ pasa\ como\ parametro\ la\ direccion\ y\ la\ salud\ deseada\r\n\ post\:\ incializa\ una\ NaveBOSS\ con\ la\ orientaci\u00F3n\ deseada\ y\ la\ salud\r\n\ inicial\ definida\r\n
+comment3.params=atacante
+comment3.target=void\ recibirDa\u00F1oDe(Atacante)
+comment3.text=\r\n\ pre\:\ se\ le\ pasa\ como\ parametro\ el\ atacante\r\n\ post\:\ recibe\ da\u00F1o\ del\ atacante\r\n
+comment4.params=
+comment4.target=int\ obtenerDa\u00F1o()
+comment4.text=\r\n\ post\:\ retorna\ el\ da\u00F1o\ que\ hace\ la\ naveBOSS\ que\ es\ 15\r\n
+comment5.params=
+comment5.target=int\ obtenerSalud()
+comment5.text=\r\n\ post\:\ retorna\ la\ salud\ de\ la\ naveBOSS\r\n
+comment6.params=objetivo
+comment6.target=void\ atacar(Da\u00F1able)
+comment6.text=\r\n\ pre\:\ se\ le\ pasa\ por\ parametro\ la\ direccion\ hacia\ donde\ atacara\r\n\ post\:\ el\ objetivo\ en\ dicha\ direccion\ recibe\ un\ ataque\r\n
+comment7.params=direccion
+comment7.target=void\ atacarHacia(Direccion)
+comment7.text=\r\n\ Ataca\ en\ una\ direcci\u00F3n\ determinada\r\n\ pre\:\ Se\ le\ pasa\ como\ parametro\ la\ direcion\ del\ ataque\r\n\ post\:\ Atacara\ hacia\ dicha\ direccion\r\n
+numComments=8

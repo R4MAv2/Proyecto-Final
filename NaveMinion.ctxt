@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=NaveMinion
+comment0.text=\r\n\ Define\ el\ comportamiento\ de\ las\ Naves\ de\ Ataque\ Enemigas\r\n
+comment1.params=direccion
+comment1.target=NaveMinion(Direccion)
+comment1.text=\r\n\ pre\:\ se\ le\ pasa\ por\ parametro\ la\ direccion\ donde\ apuntara.\r\n\ post\:\ crea\ una\ nueva\ NaveMinion.\r\n
+comment2.params=direccion\ salud
+comment2.target=NaveMinion(Direccion,\ int)
+comment2.text=\r\n\ post\:\ incializa\ una\ NaveMinion\ con\ la\ orientaci\u00F3n\ deseada\ y\ la\ salud\r\n\ inicial\ definida.\r\n\ Se\ le\ pasa\ por\ parametro\ la\ direccion\ y\ la\ salud\ inicial.\r\n
+comment3.params=atacante
+comment3.target=void\ recibirDa\u00F1oDe(Atacante)
+comment3.text=\r\n\ post\:\ recibe\ da\u00F1o\ de\ atacante.\r\n
+comment4.params=
+comment4.target=int\ obtenerDa\u00F1o()
+comment4.text=\r\n\ post\:\ retorna\ el\ da\u00F1o\ que\ provoca\ la\ naveMinion\ que\ es\ 15\r\n
+comment5.params=
+comment5.target=int\ obtenerSalud()
+comment5.text=\r\n\ post\:\ retorna\ la\ salud\ actual\ de\ la\ naveMinion.\r\n
+comment6.params=objetivo
+comment6.target=void\ atacar(Da\u00F1able)
+comment6.text=\r\n\ pre\:\ se\ le\ pasa\ por\ parametro\ el\ objetivo\ a\ atacar.\r\n\ post\:\ ataca\ el\ objetivo.\r\n
+comment7.params=direccion
+comment7.target=void\ atacarHacia(Direccion)
+comment7.text=\r\n\ pre\:\ se\ le\ pasa\ por\ parametro\ la\ direccion\ hacia\ donde\ atacar.\r\n\ post\:\ ataca\ la\ nave\ hacia\ la\ direccion\ indicada.\r\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NaveEnemigaBOSS
+comment0.text=\r\n\ Define\ las\ caracter\u00EDsticas\ y\ comportamiento\ base\ de\ una\ NaveBOSS.\ Las\r\n\ Naves\ de\ esta\ facci\u00F3n\ no\ funcionan\ con\ combustible,\ sino\ con\ gravitrones.\ Es\r\n\ por\ ello\ que\ no\ tienen\ tanque\ sino\ un\ estado\ de\ salud\r\n
+comment1.params=direccion
+comment1.target=NaveEnemigaBOSS(Direccion)
+comment1.text=\r\n\ pre\:\ se\ le\ pasa\ por\ parametro\ la\ direccion\r\n\ post\:\ se\ inicia\ una\ NaveEnemiga\ en\ la\ direcci\u00F3n\ deseada\r\n
+comment2.params=atacante
+comment2.target=void\ recibirDa\u00F1oDe(Atacante)
+comment2.text=\r\n\ pre\:\ se\ le\ pasa\ por\ parametro\ el\ atacante\r\n\ post\:\ la\ naveBOSS\ reducira\ su\ vida\ hasta\ ser\ eliminida\r\n
+numComments=3

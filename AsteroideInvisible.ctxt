@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AsteroideInvisible
+comment1.params=
+comment1.target=AsteroideInvisible()
+comment1.text=\r\n\ Genera\ el\ asteroide\ con\ el\ tama\u00F1o\ en\ 999999\r\n
+comment2.params=tama\u00F1oInicial
+comment2.target=AsteroideInvisible(int)
+comment2.text=\r\n\ Actualiza\ la\ imagen\ del\ asteroide\r\n
+comment3.params=atacante
+comment3.target=void\ recibirDa\u00F1oDe(Atacante)
+comment4.params=
+comment4.target=void\ actualizarImagen()
+comment4.text=\r\n\ Utiliza\ el\ tama\u00F1o\ para\ actualizar\ la\ imagen\r\n\ del\ asteroide\r\n
+comment5.params=
+comment5.target=int\ obtenerTama\u00F1o()
+comment5.text=\r\n\ retorna\ el\ tama\u00F1o\ actual\ del\ asteroide\r\n
+numComments=6

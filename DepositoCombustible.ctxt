@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=DepositoCombustible
+comment1.params=
+comment1.target=DepositoCombustible()
+comment1.text=\r\n\ Inicializa\ un\ DepositoCombustible\ con\ un\ tama\u00F1o\ de\ 80\ puntos\r\n
+comment2.params=tama\u00F1oInicial
+comment2.target=DepositoCombustible(int)
+comment2.text=\r\n\ Inicializa\ un\ DepositoCombustible\ con\ tama\u00F1o\ arbitrario,\r\n\ se\ le\ pasa\ por\ parametro\ el\ tama\u00F1oInical\ del\ deposito\r\n
+comment3.params=
+comment3.target=int\ consultarCombustibleDisponible()
+comment3.text=\r\n\ @return\ la\ cantidad\ de\ combustible\ de\ la\ que\ dispone\r\n
+comment4.params=atacante
+comment4.target=void\ recibirDa\u00F1oDe(Atacante)
+comment4.text=\r\n\ post\:\ recibe\ da\u00F1o\ del\ atacante\ que\ se\ le\ pasa\ por\ parametro\r\n
+comment5.params=
+comment5.target=int\ obtenerTama\u00F1oMaximo()
+comment5.text=\r\n\ @return\ el\ tama\u00F1o\ inicial\ del\ DepositoCombustible\r\n
+comment6.params=
+comment6.target=greenfoot.Color\ getAura()
+comment7.params=
+comment7.target=void\ actualizarImagenAura()
+comment8.params=
+comment8.target=void\ configurar()
+numComments=9
